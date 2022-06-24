@@ -1,8 +1,8 @@
 
 
-export const pdfUrl1 = 'https://dshvv-1300009960.cos.ap-beijing.myqcloud.com/aegis/1.pdf';
+export const pdfUrl1 = './build/pdf/1.pdf';
 
-export const pdfUrl2 = 'https://dshvv-1300009960.cos.ap-beijing.myqcloud.com/aegis/2.pdf';
+export const pdfUrl2 = './build/pdf/2.pdf';
 
 // dif_highlight 高亮代码文字
 // context_highlight 高亮代（文字所在的一行）码块
